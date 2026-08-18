@@ -2,7 +2,7 @@
 
 nombreVisitante = input("Ingrese sus nombres: ")
 apellidosVisitante = input("Ingrese sus apellidos: ")
-edadVisitante = int(input("Ingrese su edad: "))
+edadVisitante = int(input("Ingrese su edad: ")) 
 carreraVisitante = input("Ingrese la carrera que esta cursando: ")
 colorFavoritoVisitante = input("Ingrese su color favorito: ")
 
